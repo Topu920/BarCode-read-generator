@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="OnBarcode.Barcode.ASPNET">
+      <HintPath>C:\Users\LENOVO\Downloads\OnBarcode.BarcodeGenerator.DotnetSuite\OnBarcode.BarcodeGenerator.DotnetSuite\dll\Net40\OnBarcode.Barcode.ASPNET.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+
+
+</Project>
